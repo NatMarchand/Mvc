@@ -11,6 +11,7 @@
     <MicrosoftAspNetCoreAntiforgeryPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreAntiforgeryPackageVersion>
     <MicrosoftAspNetCoreAuthenticationCookiesPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreAuthenticationCookiesPackageVersion>
     <MicrosoftAspNetCoreAuthenticationCorePackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreAuthenticationCorePackageVersion>
+    <MicrosoftAspNetCoreAuthenticationJwtBearerPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreAuthenticationJwtBearerPackageVersion>
     <MicrosoftAspNetCoreAuthenticationPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreAuthenticationPackageVersion>
     <MicrosoftAspNetCoreAuthorizationPolicyPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreAuthorizationPolicyPackageVersion>
     <MicrosoftAspNetCoreBenchmarkRunnerSourcesPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreBenchmarkRunnerSourcesPackageVersion>
@@ -27,6 +28,10 @@
     <MicrosoftAspNetCoreJsonPatchPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreJsonPatchPackageVersion>
     <MicrosoftAspNetCoreLocalizationPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreLocalizationPackageVersion>
     <MicrosoftAspNetCoreLocalizationRoutingPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreLocalizationRoutingPackageVersion>
+    <MicrosoftAspNetCoreMvcCorePackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreMvcCorePackageVersion>
+    <MicrosoftAspNetCoreMvcDataAnnotationsPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreMvcDataAnnotationsPackageVersion>
+    <MicrosoftAspNetCoreMvcFormattersJsonPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreMvcFormattersJsonPackageVersion>
+    <MicrosoftAspNetCoreMvcPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreMvcPackageVersion>
     <MicrosoftAspNetCoreMvcRazorExtensionsPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreMvcRazorExtensionsPackageVersion>
     <MicrosoftAspNetCoreRangeHelperSourcesPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreRangeHelperSourcesPackageVersion>
     <MicrosoftAspNetCoreRazorDesignPackageVersion>2.2.0-preview1-34326</MicrosoftAspNetCoreRazorDesignPackageVersion>
@@ -51,6 +56,7 @@
     <MicrosoftDiaSymReaderNativePackageVersion>1.7.0</MicrosoftDiaSymReaderNativePackageVersion>
     <MicrosoftExtensionsCachingMemoryPackageVersion>2.2.0-preview1-34326</MicrosoftExtensionsCachingMemoryPackageVersion>
     <MicrosoftExtensionsClosedGenericMatcherSourcesPackageVersion>2.2.0-preview1-34326</MicrosoftExtensionsClosedGenericMatcherSourcesPackageVersion>
+    <MicrosoftExtensionsConfigurationCommandLinePackageVersion>2.2.0-preview1-34326</MicrosoftExtensionsConfigurationCommandLinePackageVersion>
     <MicrosoftExtensionsConfigurationJsonPackageVersion>2.2.0-preview1-34326</MicrosoftExtensionsConfigurationJsonPackageVersion>
     <MicrosoftExtensionsConfigurationPackageVersion>2.2.0-preview1-34326</MicrosoftExtensionsConfigurationPackageVersion>
     <MicrosoftExtensionsCopyOnWriteDictionarySourcesPackageVersion>2.2.0-preview1-34326</MicrosoftExtensionsCopyOnWriteDictionarySourcesPackageVersion>
