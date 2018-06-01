@@ -1,0 +1,20 @@
+{
+  "Default": {
+    "Client": "Wrk",
+    "Headers": {
+      "Cache-Control": "no-cache"
+    },
+    "PresetHeaders": "Json",
+    "ReadyStateText": "Application started.",
+    "Source": {
+      "BranchOrCommit": "dougbu/add.performance.apps",
+      "Project": "benchmarkapps/BasicApi/BasicApi.csproj",
+      "Repository": "https://github.com/aspnet/mvc.git"
+    }
+  },
+  "GetToken": {
+    "Path": "/token",
+    "PresentHeaders": "Plaintext",
+    "Query": "?username=reader@example.com"
+  }
+}
