@@ -16,5 +16,18 @@
     "Path": "/token",
     "PresentHeaders": "Plaintext",
     "Query": "?username=reader@example.com"
+  },
+  "GetUsingQueryString": {
+    "ClientProperties": {
+      "Scripts": "https://raw.githubusercontent.com/aspnet/Mvc/dougbu/add.performance.apps/benchmarkapps/BasicApi/tokenAuth.lua"
+    },
+    "Path": "/pet/findByStatus",
+    "Query": "?status=available"
+  },
+  "GetUsingRouteValue": {
+    "ClientProperties": {
+      "Scripts": "https://raw.githubusercontent.com/aspnet/Mvc/dougbu/add.performance.apps/benchmarkapps/BasicApi/tokenAuth.lua"
+    },
+    "Path": "/pet/1"
   }
 }
